@@ -1,1 +1,2 @@
-hello 
+Ali is a data scientist. 
+He is a python developer.
