@@ -1,2 +1,2 @@
-Ali is a data scientist. 
+Ali s a data scientist. 
 He is a python developer.
